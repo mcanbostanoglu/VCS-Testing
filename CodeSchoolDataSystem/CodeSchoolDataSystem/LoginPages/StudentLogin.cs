@@ -7,16 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CodeSchoolDataSystem.LoginPages;
+using CodeSchoolDataSystem.RoleDataSystem;
 
 namespace CodeSchoolDataSystem
 {
     public partial class StudentLogin : Form
     {
-
-        private void StudentLogin_Load(object sender, EventArgs e)
-        {
-
-        }
         public StudentLogin()
         {
             InitializeComponent();
@@ -37,6 +34,9 @@ namespace CodeSchoolDataSystem
             if(forControlStName == "stuser123" && forControlStPass =="stpass123")
             {
                 MessageBox.Show("Login successful !");
+                this.Hide();
+                StudentVerification stVerify = new StudentVerification();
+                stVerify.Show();
             }
 
             else

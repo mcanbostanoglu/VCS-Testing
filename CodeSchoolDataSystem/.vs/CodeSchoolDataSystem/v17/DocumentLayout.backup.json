@@ -3,28 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\roledatasystem\\studentdatasystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\roledatasystem\\studentdatasystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\roledatasystem\\studentdatasystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\roledatasystem\\studentdatasystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\roledatasystem\\teacherdatasystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\roledatasystem\\teacherdatasystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\roledatasystem\\teacherdatasystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\roledatasystem\\teacherdatasystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\loginpages\\studentverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\loginpages\\studentverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\loginpages\\studentverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\loginpages\\studentverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\loginpages\\teacherverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\loginpages\\teacherverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\loginpages\\teacherverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\loginpages\\teacherverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\loginpages\\studentverification.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\loginpages\\studentverification.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\loginpages\\teacherverification.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\loginpages\\teacherverification.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\loginpages\\teacherlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\loginpages\\teacherlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\loginpages\\teacherlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\loginpages\\teacherlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\loginpages\\studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\loginpages\\studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\loginpages\\studentlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\loginpages\\studentlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\roledatasystem\\studentdatasystem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\roledatasystem\\studentdatasystem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\roledatasystem\\teacherdatasystem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\roledatasystem\\teacherdatasystem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\teacherlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\teacherlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\teacherlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\teacherlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|c:\\users\\muhammed\\desktop\\schooldatasystem\\codeschooldatasystem\\codeschooldatasystem\\loginpages\\studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADB0787-581D-4FE1-ACAE-B531FD585149}|CodeSchoolDataSystem\\CodeSchoolDataSystem.csproj|solutionrelative:codeschooldatasystem\\loginpages\\studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,37 +94,217 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDataSystem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\RoleDataSystem\\StudentDataSystem.cs",
+              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\RoleDataSystem\\StudentDataSystem.cs",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\RoleDataSystem\\StudentDataSystem.cs [Design]*",
+              "RelativeToolTip": "CodeSchoolDataSystem\\RoleDataSystem\\StudentDataSystem.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:34:35.125Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDataSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\RoleDataSystem\\StudentDataSystem.cs",
+              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\RoleDataSystem\\StudentDataSystem.cs",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\RoleDataSystem\\StudentDataSystem.cs*",
+              "RelativeToolTip": "CodeSchoolDataSystem\\RoleDataSystem\\StudentDataSystem.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:38:42.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherDataSystem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\RoleDataSystem\\TeacherDataSystem.cs",
+              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\RoleDataSystem\\TeacherDataSystem.cs",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\RoleDataSystem\\TeacherDataSystem.cs [Design]*",
+              "RelativeToolTip": "CodeSchoolDataSystem\\RoleDataSystem\\TeacherDataSystem.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:20:54.397Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherDataSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\RoleDataSystem\\TeacherDataSystem.cs",
+              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\RoleDataSystem\\TeacherDataSystem.cs",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\RoleDataSystem\\TeacherDataSystem.cs*",
+              "RelativeToolTip": "CodeSchoolDataSystem\\RoleDataSystem\\TeacherDataSystem.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:38:57.055Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "StudentLogin.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\StudentLogin.cs",
-              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\StudentLogin.cs",
-              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\StudentLogin.cs",
-              "RelativeToolTip": "CodeSchoolDataSystem\\StudentLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Title": "StudentVerification.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\StudentVerification.cs",
+              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\LoginPages\\StudentVerification.cs",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\StudentVerification.cs*",
+              "RelativeToolTip": "CodeSchoolDataSystem\\LoginPages\\StudentVerification.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAhwCYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:17:35.934Z",
+              "WhenOpened": "2025-03-04T20:41:30.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "StudentVerification.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\StudentVerification.cs",
+              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\LoginPages\\StudentVerification.cs",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\StudentVerification.cs [Design]*",
+              "RelativeToolTip": "CodeSchoolDataSystem\\LoginPages\\StudentVerification.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:41:08.032Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeacherVerification.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\TeacherVerification.cs",
+              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\LoginPages\\TeacherVerification.cs",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\TeacherVerification.cs*",
+              "RelativeToolTip": "CodeSchoolDataSystem\\LoginPages\\TeacherVerification.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAhwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:12:31.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeacherVerification.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\TeacherVerification.cs",
+              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\LoginPages\\TeacherVerification.cs",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\TeacherVerification.cs [Design]*",
+              "RelativeToolTip": "CodeSchoolDataSystem\\LoginPages\\TeacherVerification.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:06:19.135Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentVerification.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\StudentVerification.Designer.cs",
+              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\LoginPages\\StudentVerification.Designer.cs",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\StudentVerification.Designer.cs*",
+              "RelativeToolTip": "CodeSchoolDataSystem\\LoginPages\\StudentVerification.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:41:24.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeacherVerification.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\TeacherVerification.Designer.cs",
+              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\LoginPages\\TeacherVerification.Designer.cs",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\TeacherVerification.Designer.cs*",
+              "RelativeToolTip": "CodeSchoolDataSystem\\LoginPages\\TeacherVerification.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:34:02.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TeacherLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\TeacherLogin.cs",
+              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\LoginPages\\TeacherLogin.cs",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\TeacherLogin.cs [Design]*",
+              "RelativeToolTip": "CodeSchoolDataSystem\\LoginPages\\TeacherLogin.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:31:46.466Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "TeacherLogin.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\TeacherLogin.cs",
-              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\TeacherLogin.cs",
-              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\TeacherLogin.cs",
-              "RelativeToolTip": "CodeSchoolDataSystem\\TeacherLogin.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAApwBUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\TeacherLogin.cs",
+              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\LoginPages\\TeacherLogin.cs",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\TeacherLogin.cs*",
+              "RelativeToolTip": "CodeSchoolDataSystem\\LoginPages\\TeacherLogin.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAawBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T19:15:57.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
+              "Title": "StudentLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\StudentLogin.cs",
+              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\LoginPages\\StudentLogin.cs",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\StudentLogin.cs [Design]*",
+              "RelativeToolTip": "CodeSchoolDataSystem\\LoginPages\\StudentLogin.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:01:35.267Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\StudentLogin.Designer.cs",
+              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\LoginPages\\StudentLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\StudentLogin.Designer.cs*",
+              "RelativeToolTip": "CodeSchoolDataSystem\\LoginPages\\StudentLogin.Designer.cs*",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAQwHkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:02:01.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentDataSystem.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\RoleDataSystem\\StudentDataSystem.Designer.cs",
+              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\RoleDataSystem\\StudentDataSystem.Designer.cs",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\RoleDataSystem\\StudentDataSystem.Designer.cs*",
+              "RelativeToolTip": "CodeSchoolDataSystem\\RoleDataSystem\\StudentDataSystem.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:33:51.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TeacherDataSystem.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\RoleDataSystem\\TeacherDataSystem.Designer.cs",
+              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\RoleDataSystem\\TeacherDataSystem.Designer.cs",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\RoleDataSystem\\TeacherDataSystem.Designer.cs*",
+              "RelativeToolTip": "CodeSchoolDataSystem\\RoleDataSystem\\TeacherDataSystem.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:33:43.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\Form1.cs",
               "RelativeDocumentMoniker": "CodeSchoolDataSystem\\Form1.cs",
@@ -76,40 +316,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 17,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\Form1.Designer.cs*",
+              "RelativeToolTip": "CodeSchoolDataSystem\\Form1.Designer.cs*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwEcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:30:30.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\Form1.cs",
               "RelativeDocumentMoniker": "CodeSchoolDataSystem\\Form1.cs",
               "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\Form1.cs*",
               "RelativeToolTip": "CodeSchoolDataSystem\\Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T19:03:13.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TeacherLogin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\TeacherLogin.cs",
-              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\TeacherLogin.cs",
-              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\TeacherLogin.cs [Design]",
-              "RelativeToolTip": "CodeSchoolDataSystem\\TeacherLogin.cs [Design]",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\Program.cs",
+              "RelativeToolTip": "CodeSchoolDataSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:02:02.032Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-04T20:31:01.971Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentLogin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\StudentLogin.cs",
-              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\StudentLogin.cs",
-              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\StudentLogin.cs [Design]",
-              "RelativeToolTip": "CodeSchoolDataSystem\\StudentLogin.cs [Design]",
+              "DocumentIndex": 20,
+              "Title": "StudentLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\StudentLogin.cs",
+              "RelativeDocumentMoniker": "CodeSchoolDataSystem\\LoginPages\\StudentLogin.cs",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\SchoolDataSystem\\CodeSchoolDataSystem\\CodeSchoolDataSystem\\LoginPages\\StudentLogin.cs*",
+              "RelativeToolTip": "CodeSchoolDataSystem\\LoginPages\\StudentLogin.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:01:35.267Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-04T19:17:35.934Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CodeSchoolDataSystem.LoginPages;
+using CodeSchoolDataSystem.RoleDataSystem;
 
 namespace CodeSchoolDataSystem
 {
@@ -15,11 +17,6 @@ namespace CodeSchoolDataSystem
         public TeacherLogin()
         {
             InitializeComponent();
-        }
-
-        private void TeacherLogin_Load(object sender, EventArgs e)
-        {
-
         }
 
         private void buttonTcMainPage_Click(object sender, EventArgs e)
@@ -37,6 +34,9 @@ namespace CodeSchoolDataSystem
             if (forControlTcName == "tcuser123" && forControlTcPass == "tcpass123")
             {
                 MessageBox.Show("Login successful !");
+                this.Hide();
+                TeacherVerification tcVerify = new TeacherVerification();
+                tcVerify.Show();
             }
 
             else

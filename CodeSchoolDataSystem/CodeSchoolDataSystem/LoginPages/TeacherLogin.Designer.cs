@@ -126,7 +126,6 @@
             Name = "TeacherLogin";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "TeacherLogin";
-            Load += TeacherLogin_Load;
             ResumeLayout(false);
             PerformLayout();
         }

@@ -22,10 +22,5 @@ namespace CodeSchoolDataSystem
             tcLogPage.Show();
             MessageBox.Show("For login information, please read the Readme file on GitHub.");
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            
-        }
     }
 }
