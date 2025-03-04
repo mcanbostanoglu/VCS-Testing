@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeSchoolDataSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f28f4eca01e5f8aa30ebd353f7afef047444deac")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeSchoolDataSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeSchoolDataSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
